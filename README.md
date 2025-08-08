@@ -1,7 +1,5 @@
 # AetherLab AI Detector — Hot Dog or Not
 
-![AetherLab Logo](logo/icon.png)
-
 Public download page for the AetherLab AI Detector.
 
 ## What It Does
